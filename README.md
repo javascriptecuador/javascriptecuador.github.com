@@ -8,8 +8,8 @@
   Gatsby's default starter
 </h1>
 
- <p align="center">
- <img alt="Javascript Ecuador" src="src/images/JavascriptEcuadorLogo.png" style="width:90px;align:center;"">
+ <p align="center"> 
+ <img src="src/images/JavascriptEcuadorLogo.png" data-canonical-src="src/images/JavascriptEcuadorLogo.png" width="250" height="250"/>
  </p>
 
 Bienvenido al repositorio del sitio de la comunidad de Javascript Ecuador. Como puedes ver este sitio está creado usando Gatsby.js
