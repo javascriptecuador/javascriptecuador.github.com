@@ -10,8 +10,7 @@ const IndexPage = () => (
     <SEO title="Home" />
     <h1>Hola</h1>
     <p>Bienvenido al sitio de la <span style={{ color: `yellow`, fontSize: `40px` }}>Comunidad</span> <span style={{ color: `blue`, fontSize: `40px` }}>Javascript</span><span style={{ color: `red`, fontSize: `40px` }}>Ecuador</span>.</p>
-    <p>Este sitio está en desarrollo pero si quieres ayudar pasa por:.</p>
-    <a href="https://github.com/javascriptecuador/javascriptecuador.github.com">Nuestro repositorio en github</a>    
+    <p>Este sitio está en desarrollo pero si quieres ayudar pasa por: <a href="https://github.com/javascriptecuador/javascriptecuador.github.com">Nuestro repositorio en github</a></p>    
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />      
     </div>
